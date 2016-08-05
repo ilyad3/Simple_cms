@@ -6,7 +6,7 @@ class simple_functions
 {
 	private $db,$login,$id,$pass,$db_host,$db_name,$db_user,$db_pass;
 
-	public $site_url = "letsstudy.ru";
+	public $site_url = "****";
 
 	function __construct($db_host,$db_name,$db_user,$db_pass)
 	{
